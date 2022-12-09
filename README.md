@@ -67,3 +67,6 @@ VerticalAligment
 HorizontalAligment
 TextBlock -элемент для ввода текстовой информации
 TextBox - элемент для вывода текстовых данных
+
+Гугл диск авторизация
+https://drive.google.com/drive/folders/1tUtGrRSVrYrF_3Q26dDJXRUdMjyP8iwR?usp=sharing
